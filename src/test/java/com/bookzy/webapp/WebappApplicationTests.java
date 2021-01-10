@@ -8,6 +8,6 @@ class WebappApplicationTests {
 
 	@Test
 	public void contextLoads() {
-	    Assert.assertEquals("app loads", "app loads");
+
 	}
 }
