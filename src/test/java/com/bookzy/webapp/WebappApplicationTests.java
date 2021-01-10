@@ -8,6 +8,5 @@ class WebappApplicationTests {
 
 	@Test
 	public void contextLoads() {
-
 	}
 }
